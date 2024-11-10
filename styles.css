@@ -1,0 +1,40 @@
+body {
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.container{
+    display: flex;
+    gap:40px;
+    
+    
+}
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    max-width: 400px;
+
+}
+.text-container{
+    line-height: normal;
+}
+.text-container2{
+    font-size:15px;
+    line-height: 1.6;
+}
+
+.beadCrumb{
+    color:#565959;
+}
+.link{
+    color:#007185;
+}
+.h41{
+    color: black;
+    
+}
+
+
